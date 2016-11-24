@@ -2,9 +2,9 @@
 
 Welcome to the repo Getting and Clening Data Course Project.
 Here you will find:
-  * **run_analysis.R**: the script that runs the code to create the new dataset.
-  - **clean_data.txt**: the new dataset after running the script.
-  - **CodeBook.md**: list of variables with their description if needed.
+  * **run_analysis.R**: the script that runs the code to create the new dataset
+  - **clean_data.txt**: the new dataset after running the script
+  - **CodeBook.md**: list of variables with their description if needed
 
 So **run_analysis.R** does the following:
   1. Sets your working directory and reads the appropiate files
