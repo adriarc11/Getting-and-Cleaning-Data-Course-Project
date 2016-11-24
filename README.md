@@ -1,4 +1,4 @@
-# Getting-and-Cleaning-Data-Course-Project
+# Getting and Cleaning Data Course Project
 
 Welcome to the repo Getting and Clening Data Course Project.
 Here you will find:
