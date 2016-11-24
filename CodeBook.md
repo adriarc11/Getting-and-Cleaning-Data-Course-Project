@@ -2,9 +2,9 @@
 
 Here you can find the variables from the the clean dataset.
 
-1. Subject: a number from 1 to 30 representing each of the subjects.
-2. Activity: the activites that the subjects were performing when the data in (3) was extracted. Laying, sitting, standing, walking, walking downstairs, walking upstairs.
-3. Mean and Standard Deviation related variables. Basically they are in some way or another a type of acceleration or angular velocity for each of the X,Y,Z coordinates:
+1. **Subject**: a number from 1 to 30 representing each of the subjects.
+2. **Activity**: the activites that the subjects were performing when the data in (3) was extracted. Laying, sitting, standing, walking, walking downstairs, walking upstairs.
+3. **Mean and Standard Deviation Variables**. Basically they are in some way or another a type of acceleration or angular velocity for each of the X,Y,Z coordinates:
   * tBodyAcc-mean()-X 
   * tBodyAcc-mean()-Y 
   * tBodyAcc-mean()-Z 
